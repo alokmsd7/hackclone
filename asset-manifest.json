@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hackclone/static/css/main.fd701b95.css",
+    "main.js": "/hackclone/static/js/main.7d08de6f.js",
+    "index.html": "/hackclone/index.html",
+    "main.fd701b95.css.map": "/hackclone/static/css/main.fd701b95.css.map",
+    "main.7d08de6f.js.map": "/hackclone/static/js/main.7d08de6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd701b95.css",
+    "static/js/main.7d08de6f.js"
+  ]
+}
